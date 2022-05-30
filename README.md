@@ -1,4 +1,5 @@
 # Presentation
+
 [FR] Scripts FiveM Location. Full configurable avec beaucoup de choix de langues. (Location Voitures, Bateaux, Avions et Hélicoptères )
 
 [AN] FiveM Rental Scripts. Fully configurable with many language options (Car, Boat, Airplane and Helicopter rentals)
@@ -11,6 +12,8 @@
 
 [Translate by Deepl]
 
+----------------
+
 Framework:
 [ESX] = Disponible
 
@@ -21,6 +24,8 @@ Framework:
 Others:
 
 [Base California RP] = Soon...
+
+----------------
 
 # Reglement
 
@@ -34,3 +39,6 @@ Others:
 
 [GR]
 
+----------------
+
+[Translate by Deepl]
