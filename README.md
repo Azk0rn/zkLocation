@@ -13,6 +13,7 @@
 
 Framework:
 [ESX] = Disponible
+
 [QBUS] = Soon...
 
 Others:
@@ -21,7 +22,12 @@ Others:
 # Reglement
 
 [FR] 
+
 [AN] 
+
 [ES] 
+
 [IT] 
+
 [GR]
+
