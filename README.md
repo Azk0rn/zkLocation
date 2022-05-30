@@ -10,6 +10,8 @@
 
 [GR] Σενάρια ενοικίασης FiveM. Πλήρως διαμορφώσιμη με πολλές γλωσσικές επιλογές (ενοικίαση αυτοκινήτου, σκάφους, αεροπλάνου και ελικοπτέρου)
 
+[RU] Scripts FiveM Location. Full configurable avec beaucoup de choix de langues. (Location Voitures, Bateaux, Avions et Hélicoptères )
+
 [Translate by Deepl]
 
 ----------------
